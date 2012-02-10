@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Niket's Blog]]></title>
+  <link href="http://nexneo.github.com/atom.xml" rel="self"/>
+  <link href="http://nexneo.github.com/"/>
+  <updated>2012-02-10T16:55:11+05:30</updated>
+  <id>http://nexneo.github.com/</id>
+  <author>
+    <name><![CDATA[Niket Patel]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Hello Octopress]]></title>
+    <link href="http://nexneo.github.com/blog/2011/07/24/hello-octopress/"/>
+    <updated>2011-07-24T22:02:00+05:30</updated>
+    <id>http://nexneo.github.com/blog/2011/07/24/hello-octopress</id>
+    <content type="html"><![CDATA[<p><a href="http://octopress.org">Octopress</a> looks like fine tool for managing simple blog.</p>
+
+<p>Lets see how that turns out.</p>
+]]></content>
+  </entry>
+  
+</feed>
