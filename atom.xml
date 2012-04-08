@@ -4,7 +4,7 @@
   <title><![CDATA[Niket's Blog]]></title>
   <link href="http://nexneo.github.com/atom.xml" rel="self"/>
   <link href="http://nexneo.github.com/"/>
-  <updated>2012-04-08T03:06:26+05:30</updated>
+  <updated>2012-04-08T14:05:43+05:30</updated>
   <id>http://nexneo.github.com/</id>
   <author>
     <name><![CDATA[Niket Patel]]></name>
@@ -18,7 +18,7 @@
     <link href="http://nexneo.github.com/blog/2012/04/08/sunflower/"/>
     <updated>2012-04-08T02:09:00+05:30</updated>
     <id>http://nexneo.github.com/blog/2012/04/08/sunflower</id>
-    <content type="html"><![CDATA[<p><img class="left" src="http://nexneo.github.com/images/sun_flower.jpg"></p>
+    <content type="html"><![CDATA[<p><a href="http://www.flickr.com/photos/niket/6909971992/" title="Sunflower by nexneo, on Flickr"><img src="http://farm6.staticflickr.com/5327/6909971992_52344aa8a8_b.jpg" width="1024" height="683" alt="Sunflower"></a></p>
 ]]></content>
   </entry>
   
